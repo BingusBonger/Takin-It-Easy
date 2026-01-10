@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "takiniteasy:block/stripped_dark_oak_log_top_breaking_stage_2",
+    "up": "takiniteasy:block/stripped_dark_oak_log_top_breaking_stage_2",
+    "north": "takiniteasy:block/stripped_dark_oak_log_breaking_stage_2",
+    "east": "takiniteasy:block/stripped_dark_oak_log_breaking_stage_2",
+    "south": "takiniteasy:block/stripped_dark_oak_log_breaking_stage_2",
+    "west": "takiniteasy:block/stripped_dark_oak_log_breaking_stage_2",
+    "particle": "takiniteasy:block/stripped_dark_oak_log_top_breaking_stage_2"
+  },
+  "render_type": "solid"
+}

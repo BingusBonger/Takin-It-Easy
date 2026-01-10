@@ -1,0 +1,451 @@
+{
+  "mod_elements": [
+    {
+      "name": "StrippedOakLogBreakingStage1",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_oak_log_breaking_stage_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/takiniteasy/loot_table/blocks/stripped_oak_log_breaking_stage_1.json",
+          "src/main/resources/assets/takiniteasy/blockstates/stripped_oak_log_breaking_stage_1.json",
+          "src/main/resources/assets/takiniteasy/models/block/stripped_oak_log_breaking_stage_1.json",
+          "src/main/java/net/mcreator/takiniteasy/block/StrippedOakLogBreakingStage1Block.java"
+        ]
+      }
+    },
+    {
+      "name": "StrippedOakLogBreakingStage2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_oak_log_breaking_stage_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/takiniteasy/models/block/stripped_oak_log_breaking_stage_2.json",
+          "src/main/resources/assets/takiniteasy/blockstates/stripped_oak_log_breaking_stage_2.json",
+          "src/main/java/net/mcreator/takiniteasy/block/StrippedOakLogBreakingStage2Block.java",
+          "src/main/resources/data/takiniteasy/loot_table/blocks/stripped_oak_log_breaking_stage_2.json"
+        ]
+      }
+    },
+    {
+      "name": "StrippedOakLogBreakingStage3",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_oak_log_breaking_stage_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/takiniteasy/block/StrippedOakLogBreakingStage3Block.java",
+          "src/main/resources/data/takiniteasy/loot_table/blocks/stripped_oak_log_breaking_stage_3.json",
+          "src/main/resources/assets/takiniteasy/blockstates/stripped_oak_log_breaking_stage_3.json",
+          "src/main/resources/assets/takiniteasy/models/block/stripped_oak_log_breaking_stage_3.json"
+        ]
+      }
+    },
+    {
+      "name": "StrippedSpruceLogBreakingStage1",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_spruce_log_breaking_stage_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/takiniteasy/models/block/stripped_spruce_log_breaking_stage_1.json",
+          "src/main/java/net/mcreator/takiniteasy/block/StrippedSpruceLogBreakingStage1Block.java",
+          "src/main/resources/data/takiniteasy/loot_table/blocks/stripped_spruce_log_breaking_stage_1.json",
+          "src/main/resources/assets/takiniteasy/blockstates/stripped_spruce_log_breaking_stage_1.json"
+        ]
+      }
+    },
+    {
+      "name": "StrippedSpruceLogBreakingStage2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_spruce_log_breaking_stage_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/takiniteasy/blockstates/stripped_spruce_log_breaking_stage_2.json",
+          "src/main/resources/data/takiniteasy/loot_table/blocks/stripped_spruce_log_breaking_stage_2.json",
+          "src/main/resources/assets/takiniteasy/models/block/stripped_spruce_log_breaking_stage_2.json",
+          "src/main/java/net/mcreator/takiniteasy/block/StrippedSpruceLogBreakingStage2Block.java"
+        ]
+      }
+    },
+    {
+      "name": "StrippedSpruceLogBreakingStage3",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_spruce_log_breaking_stage_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/takiniteasy/models/block/stripped_spruce_log_breaking_stage_3.json",
+          "src/main/java/net/mcreator/takiniteasy/block/StrippedSpruceLogBreakingStage3Block.java",
+          "src/main/resources/data/takiniteasy/loot_table/blocks/stripped_spruce_log_breaking_stage_3.json",
+          "src/main/resources/assets/takiniteasy/blockstates/stripped_spruce_log_breaking_stage_3.json"
+        ]
+      }
+    },
+    {
+      "name": "StrippedCherryLogBreakingStage1",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_cherry_log_breaking_stage_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/takiniteasy/models/block/stripped_cherry_log_breaking_stage_1.json",
+          "src/main/resources/assets/takiniteasy/blockstates/stripped_cherry_log_breaking_stage_1.json",
+          "src/main/resources/data/takiniteasy/loot_table/blocks/stripped_cherry_log_breaking_stage_1.json",
+          "src/main/java/net/mcreator/takiniteasy/block/StrippedCherryLogBreakingStage1Block.java"
+        ]
+      }
+    },
+    {
+      "name": "StrippedCherryLogBreakingStage2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_cherry_log_breaking_stage_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/takiniteasy/block/StrippedCherryLogBreakingStage2Block.java",
+          "src/main/resources/assets/takiniteasy/models/block/stripped_cherry_log_breaking_stage_2.json",
+          "src/main/resources/assets/takiniteasy/blockstates/stripped_cherry_log_breaking_stage_2.json",
+          "src/main/resources/data/takiniteasy/loot_table/blocks/stripped_cherry_log_breaking_stage_2.json"
+        ]
+      }
+    },
+    {
+      "name": "StrippedCherryLogBreakingStage3",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_cherry_log_breaking_stage_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/takiniteasy/block/StrippedCherryLogBreakingStage3Block.java",
+          "src/main/resources/data/takiniteasy/loot_table/blocks/stripped_cherry_log_breaking_stage_3.json",
+          "src/main/resources/assets/takiniteasy/models/block/stripped_cherry_log_breaking_stage_3.json",
+          "src/main/resources/assets/takiniteasy/blockstates/stripped_cherry_log_breaking_stage_3.json"
+        ]
+      }
+    },
+    {
+      "name": "StrippedJungleLogBreakingStage1",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_jungle_log_breaking_stage_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/takiniteasy/blockstates/stripped_jungle_log_breaking_stage_1.json",
+          "src/main/resources/assets/takiniteasy/models/block/stripped_jungle_log_breaking_stage_1.json",
+          "src/main/java/net/mcreator/takiniteasy/block/StrippedJungleLogBreakingStage1Block.java",
+          "src/main/resources/data/takiniteasy/loot_table/blocks/stripped_jungle_log_breaking_stage_1.json"
+        ]
+      }
+    },
+    {
+      "name": "StrippedJungleLogBreakingStage2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_jungle_log_breaking_stage_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/takiniteasy/models/block/stripped_jungle_log_breaking_stage_2.json",
+          "src/main/java/net/mcreator/takiniteasy/block/StrippedJungleLogBreakingStage2Block.java",
+          "src/main/resources/assets/takiniteasy/blockstates/stripped_jungle_log_breaking_stage_2.json",
+          "src/main/resources/data/takiniteasy/loot_table/blocks/stripped_jungle_log_breaking_stage_2.json"
+        ]
+      }
+    },
+    {
+      "name": "StrippedJungleLogBreakingStage3",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_jungle_log_breaking_stage_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/takiniteasy/block/StrippedJungleLogBreakingStage3Block.java",
+          "src/main/resources/data/takiniteasy/loot_table/blocks/stripped_jungle_log_breaking_stage_3.json",
+          "src/main/resources/assets/takiniteasy/models/block/stripped_jungle_log_breaking_stage_3.json",
+          "src/main/resources/assets/takiniteasy/blockstates/stripped_jungle_log_breaking_stage_3.json"
+        ]
+      }
+    },
+    {
+      "name": "StrippedDarkOakLogBreakingStage1",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_dark_oak_log_breaking_stage_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/takiniteasy/loot_table/blocks/stripped_dark_oak_log_breaking_stage_1.json",
+          "src/main/java/net/mcreator/takiniteasy/block/StrippedDarkOakLogBreakingStage1Block.java",
+          "src/main/resources/assets/takiniteasy/blockstates/stripped_dark_oak_log_breaking_stage_1.json",
+          "src/main/resources/assets/takiniteasy/models/block/stripped_dark_oak_log_breaking_stage_1.json"
+        ]
+      }
+    },
+    {
+      "name": "StrippedDarkOakLogBreakingStage2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_dark_oak_log_breaking_stage_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/takiniteasy/loot_table/blocks/stripped_dark_oak_log_breaking_stage_2.json",
+          "src/main/resources/assets/takiniteasy/models/block/stripped_dark_oak_log_breaking_stage_2.json",
+          "src/main/java/net/mcreator/takiniteasy/block/StrippedDarkOakLogBreakingStage2Block.java",
+          "src/main/resources/assets/takiniteasy/blockstates/stripped_dark_oak_log_breaking_stage_2.json"
+        ]
+      }
+    },
+    {
+      "name": "StrippedDarkOakLogBreakingStage3",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_dark_oak_log_breaking_stage_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/takiniteasy/block/StrippedDarkOakLogBreakingStage3Block.java",
+          "src/main/resources/data/takiniteasy/loot_table/blocks/stripped_dark_oak_log_breaking_stage_3.json",
+          "src/main/resources/assets/takiniteasy/models/block/stripped_dark_oak_log_breaking_stage_3.json",
+          "src/main/resources/assets/takiniteasy/blockstates/stripped_dark_oak_log_breaking_stage_3.json"
+        ]
+      }
+    },
+    {
+      "name": "StrippedBirchLogBreakingStage1",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_birch_log_breaking_stage_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/takiniteasy/models/block/stripped_birch_log_breaking_stage_1.json",
+          "src/main/resources/data/takiniteasy/loot_table/blocks/stripped_birch_log_breaking_stage_1.json",
+          "src/main/java/net/mcreator/takiniteasy/block/StrippedBirchLogBreakingStage1Block.java",
+          "src/main/resources/assets/takiniteasy/blockstates/stripped_birch_log_breaking_stage_1.json"
+        ]
+      }
+    },
+    {
+      "name": "StrippedBirchLogBreakingStage2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_birch_log_breaking_stage_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/takiniteasy/models/block/stripped_birch_log_breaking_stage_2.json",
+          "src/main/java/net/mcreator/takiniteasy/block/StrippedBirchLogBreakingStage2Block.java",
+          "src/main/resources/data/takiniteasy/loot_table/blocks/stripped_birch_log_breaking_stage_2.json",
+          "src/main/resources/assets/takiniteasy/blockstates/stripped_birch_log_breaking_stage_2.json"
+        ]
+      }
+    },
+    {
+      "name": "StrippedBirchLogBreakingStage3",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_birch_log_breaking_stage_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/takiniteasy/loot_table/blocks/stripped_birch_log_breaking_stage_3.json",
+          "src/main/resources/assets/takiniteasy/blockstates/stripped_birch_log_breaking_stage_3.json",
+          "src/main/resources/assets/takiniteasy/models/block/stripped_birch_log_breaking_stage_3.json",
+          "src/main/java/net/mcreator/takiniteasy/block/StrippedBirchLogBreakingStage3Block.java"
+        ]
+      }
+    },
+    {
+      "name": "StrippedAcaciaLogBreakingStage1",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_acacia_log_breaking_stage_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/takiniteasy/models/block/stripped_acacia_log_breaking_stage_1.json",
+          "src/main/java/net/mcreator/takiniteasy/block/StrippedAcaciaLogBreakingStage1Block.java",
+          "src/main/resources/data/takiniteasy/loot_table/blocks/stripped_acacia_log_breaking_stage_1.json",
+          "src/main/resources/assets/takiniteasy/blockstates/stripped_acacia_log_breaking_stage_1.json"
+        ]
+      }
+    },
+    {
+      "name": "StrippedAcaciaLogBreakingStage2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_acacia_log_breaking_stage_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/takiniteasy/loot_table/blocks/stripped_acacia_log_breaking_stage_2.json",
+          "src/main/java/net/mcreator/takiniteasy/block/StrippedAcaciaLogBreakingStage2Block.java",
+          "src/main/resources/assets/takiniteasy/models/block/stripped_acacia_log_breaking_stage_2.json",
+          "src/main/resources/assets/takiniteasy/blockstates/stripped_acacia_log_breaking_stage_2.json"
+        ]
+      }
+    },
+    {
+      "name": "StrippedAcaciaLogBreakingStage3",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_acacia_log_breaking_stage_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/takiniteasy/loot_table/blocks/stripped_acacia_log_breaking_stage_3.json",
+          "src/main/resources/assets/takiniteasy/blockstates/stripped_acacia_log_breaking_stage_3.json",
+          "src/main/resources/assets/takiniteasy/models/block/stripped_acacia_log_breaking_stage_3.json",
+          "src/main/java/net/mcreator/takiniteasy/block/StrippedAcaciaLogBreakingStage3Block.java"
+        ]
+      }
+    },
+    {
+      "name": "StrippedMangroveLogBreakingStage1",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_mangrove_log_breaking_stage_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/takiniteasy/models/block/stripped_mangrove_log_breaking_stage_1.json",
+          "src/main/java/net/mcreator/takiniteasy/block/StrippedMangroveLogBreakingStage1Block.java",
+          "src/main/resources/data/takiniteasy/loot_table/blocks/stripped_mangrove_log_breaking_stage_1.json",
+          "src/main/resources/assets/takiniteasy/blockstates/stripped_mangrove_log_breaking_stage_1.json"
+        ]
+      }
+    },
+    {
+      "name": "StrippedMangroveLogBreakingStage2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_mangrove_log_breaking_stage_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/takiniteasy/blockstates/stripped_mangrove_log_breaking_stage_2.json",
+          "src/main/resources/data/takiniteasy/loot_table/blocks/stripped_mangrove_log_breaking_stage_2.json",
+          "src/main/resources/assets/takiniteasy/models/block/stripped_mangrove_log_breaking_stage_2.json",
+          "src/main/java/net/mcreator/takiniteasy/block/StrippedMangroveLogBreakingStage2Block.java"
+        ]
+      }
+    },
+    {
+      "name": "StrippedMangroveLogBreakingStage3",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_mangrove_log_breaking_stage_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/takiniteasy/blockstates/stripped_mangrove_log_breaking_stage_3.json",
+          "src/main/resources/assets/takiniteasy/models/block/stripped_mangrove_log_breaking_stage_3.json",
+          "src/main/java/net/mcreator/takiniteasy/block/StrippedMangroveLogBreakingStage3Block.java",
+          "src/main/resources/data/takiniteasy/loot_table/blocks/stripped_mangrove_log_breaking_stage_3.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "BLOCKS:minecraft:mineable/axe": [
+      "~CUSTOM:StrippedMangroveLogBreakingStage3",
+      "~CUSTOM:StrippedMangroveLogBreakingStage2",
+      "~CUSTOM:StrippedMangroveLogBreakingStage1",
+      "~CUSTOM:StrippedAcaciaLogBreakingStage3",
+      "~CUSTOM:StrippedAcaciaLogBreakingStage2",
+      "~CUSTOM:StrippedAcaciaLogBreakingStage1",
+      "~CUSTOM:StrippedBirchLogBreakingStage3",
+      "~CUSTOM:StrippedBirchLogBreakingStage2",
+      "~CUSTOM:StrippedBirchLogBreakingStage1",
+      "~CUSTOM:StrippedDarkOakLogBreakingStage3",
+      "~CUSTOM:StrippedDarkOakLogBreakingStage2",
+      "~CUSTOM:StrippedDarkOakLogBreakingStage1",
+      "~CUSTOM:StrippedJungleLogBreakingStage3",
+      "~CUSTOM:StrippedJungleLogBreakingStage2",
+      "~CUSTOM:StrippedJungleLogBreakingStage1",
+      "~CUSTOM:StrippedCherryLogBreakingStage3",
+      "~CUSTOM:StrippedCherryLogBreakingStage2",
+      "~CUSTOM:StrippedCherryLogBreakingStage1",
+      "~CUSTOM:StrippedSpruceLogBreakingStage3",
+      "~CUSTOM:StrippedSpruceLogBreakingStage2",
+      "~CUSTOM:StrippedSpruceLogBreakingStage1",
+      "~CUSTOM:StrippedOakLogBreakingStage3",
+      "~CUSTOM:StrippedOakLogBreakingStage2",
+      "~CUSTOM:StrippedOakLogBreakingStage1"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item.takiniteasy.stripped_oak_log_breaking_stage_1": "Stripped Oak Log Breaking Stage 1",
+      "item.takiniteasy.stripped_oak_log_breaking_stage_2": "Stripped Oak Log Breaking Stage 1",
+      "item.takiniteasy.stripped_oak_log_breaking_stage_3": "Stripped Oak Log Breaking Stage 1",
+      "item.takiniteasy.stripped_spruce_log_breaking_stage_1": "Stripped Oak Log Breaking Stage 1",
+      "item.takiniteasy.stripped_spruce_log_breaking_stage_2": "Stripped Oak Log Breaking Stage 1",
+      "item.takiniteasy.stripped_spruce_log_breaking_stage_3": "Stripped Oak Log Breaking Stage 1",
+      "item.takiniteasy.stripped_cherry_log_breaking_stage_1": "Stripped Oak Log Breaking Stage 1",
+      "item.takiniteasy.stripped_cherry_log_breaking_stage_2": "Stripped Oak Log Breaking Stage 1",
+      "item.takiniteasy.stripped_cherry_log_breaking_stage_3": "Stripped Oak Log Breaking Stage 1",
+      "item.takiniteasy.stripped_jungle_log_breaking_stage_1": "Stripped Oak Log Breaking Stage 1",
+      "item.takiniteasy.stripped_jungle_log_breaking_stage_2": "Stripped Oak Log Breaking Stage 1",
+      "item.takiniteasy.stripped_jungle_log_breaking_stage_3": "Stripped Oak Log Breaking Stage 1",
+      "item.takiniteasy.stripped_dark_oak_log_breaking_stage_1": "Stripped Oak Log Breaking Stage 1",
+      "item.takiniteasy.stripped_dark_oak_log_breaking_stage_2": "Stripped Oak Log Breaking Stage 1",
+      "item.takiniteasy.stripped_dark_oak_log_breaking_stage_3": "Stripped Oak Log Breaking Stage 1",
+      "item.takiniteasy.stripped_birch_log_breaking_stage_1": "Stripped Oak Log Breaking Stage 1",
+      "item.takiniteasy.stripped_birch_log_breaking_stage_2": "Stripped Oak Log Breaking Stage 1",
+      "item.takiniteasy.stripped_birch_log_breaking_stage_3": "Stripped Oak Log Breaking Stage 1",
+      "item.takiniteasy.stripped_acacia_log_breaking_stage_1": "Stripped Oak Log Breaking Stage 1",
+      "item.takiniteasy.stripped_acacia_log_breaking_stage_2": "Stripped Oak Log Breaking Stage 1",
+      "item.takiniteasy.stripped_acacia_log_breaking_stage_3": "Stripped Oak Log Breaking Stage 1",
+      "item.takiniteasy.stripped_mangrove_log_breaking_stage_1": "Stripped Oak Log Breaking Stage 1",
+      "item.takiniteasy.stripped_mangrove_log_breaking_stage_2": "Stripped Oak Log Breaking Stage 1",
+      "item.takiniteasy.stripped_mangrove_log_breaking_stage_3": "Stripped Oak Log Breaking Stage 1"
+    }
+  },
+  "metadata": {
+    "files": [
+      "src/main/java/net/mcreator/takiniteasy/init/TakiniteasyModBlocks.java",
+      "src/main/resources/pack.mcmeta",
+      "src/main/java/net/mcreator/takiniteasy/TakiniteasyMod.java",
+      "src/main/resources/META-INF/neoforge.mods.toml"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "takiniteasy",
+    "modName": "TakinItEasy",
+    "version": "1.0.0",
+    "author": "MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.8",
+    "modElementsPackage": "net.mcreator.takiniteasy"
+  },
+  "mcreatorVersion": 202500345720
+}

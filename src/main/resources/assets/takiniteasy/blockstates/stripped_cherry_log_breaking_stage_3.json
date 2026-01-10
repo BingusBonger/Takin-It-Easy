@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "takiniteasy:block/stripped_cherry_log_breaking_stage_3",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "takiniteasy:block/stripped_cherry_log_breaking_stage_3"
+    },
+    "axis=z": {
+      "model": "takiniteasy:block/stripped_cherry_log_breaking_stage_3",
+      "x": 90
+    }
+  }
+}

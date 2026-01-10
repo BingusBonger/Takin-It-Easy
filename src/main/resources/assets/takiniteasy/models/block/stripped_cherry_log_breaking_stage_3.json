@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "takiniteasy:block/stripped_cherry_log_top_breaking_stage_3",
+    "up": "takiniteasy:block/stripped_cherry_log_top_breaking_stage_3",
+    "north": "takiniteasy:block/stripped_cherry_log_breaking_stage_3",
+    "east": "takiniteasy:block/stripped_cherry_log_breaking_stage_3",
+    "south": "takiniteasy:block/stripped_cherry_log_breaking_stage_3",
+    "west": "takiniteasy:block/stripped_cherry_log_breaking_stage_3",
+    "particle": "takiniteasy:block/stripped_cherry_log_top_breaking_stage_3"
+  },
+  "render_type": "solid"
+}
