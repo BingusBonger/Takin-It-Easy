@@ -20,6 +20,8 @@ import net.minecraft.network.protocol.common.custom.CustomPacketPayload;
 import net.minecraft.network.codec.StreamCodec;
 import net.minecraft.network.FriendlyByteBuf;
 
+import net.mcreator.takiniteasy.init.TakiniteasyModTabs;
+import net.mcreator.takiniteasy.init.TakiniteasyModItems;
 import net.mcreator.takiniteasy.init.TakiniteasyModBlocks;
 
 import javax.annotation.Nullable;
@@ -46,6 +48,8 @@ public class TakiniteasyMod {
 		NeoForge.EVENT_BUS.register(this);
 		modEventBus.addListener(this::registerNetworking);
 		TakiniteasyModBlocks.REGISTRY.register(modEventBus);
+		TakiniteasyModItems.REGISTRY.register(modEventBus);
+		TakiniteasyModTabs.REGISTRY.register(modEventBus);
 		// Start of user code block mod init
 		// End of user code block mod init
 	}

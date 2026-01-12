@@ -359,6 +359,438 @@
           "src/main/resources/data/takiniteasy/loot_table/blocks/stripped_mangrove_log_breaking_stage_3.json"
         ]
       }
+    },
+    {
+      "name": "TreeBreakingUnbroken",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tree_breaking_unbroken",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/takiniteasy/procedures/TreeBreakingUnbrokenProcedure.java"
+        ]
+      }
+    },
+    {
+      "name": "TreeBreakingBroken1",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tree_breaking_broken_1",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/takiniteasy/procedures/TreeBreakingBroken1Procedure.java"
+        ]
+      }
+    },
+    {
+      "name": "TreeBreakingStripped",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tree_breaking_stripped",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/takiniteasy/procedures/TreeBreakingStrippedProcedure.java"
+        ]
+      }
+    },
+    {
+      "name": "TreeBreakingBroken2",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tree_breaking_broken_2",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/takiniteasy/procedures/TreeBreakingBroken2Procedure.java"
+        ]
+      }
+    },
+    {
+      "name": "TreeBreakingBroken3",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tree_breaking_broken_3",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/takiniteasy/procedures/TreeBreakingBroken3Procedure.java"
+        ]
+      }
+    },
+    {
+      "name": "CampfirePlacedUnlit",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "campfire_placed_unlit",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/takiniteasy/procedures/CampfirePlacedUnlitProcedure.java"
+        ]
+      }
+    },
+    {
+      "name": "OakBark",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oak_bark",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/takiniteasy/item/OakBarkItem.java",
+          "src/main/resources/assets/takiniteasy/items/oak_bark.json",
+          "src/main/resources/assets/takiniteasy/models/item/oak_bark.json"
+        ]
+      }
+    },
+    {
+      "name": "BirchBark",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birch_bark",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/takiniteasy/items/birch_bark.json",
+          "src/main/java/net/mcreator/takiniteasy/item/BirchBarkItem.java",
+          "src/main/resources/assets/takiniteasy/models/item/birch_bark.json"
+        ]
+      }
+    },
+    {
+      "name": "CherryBark",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_bark",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/takiniteasy/item/CherryBarkItem.java",
+          "src/main/resources/assets/takiniteasy/models/item/cherry_bark.json",
+          "src/main/resources/assets/takiniteasy/items/cherry_bark.json"
+        ]
+      }
+    },
+    {
+      "name": "MangroveBark",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mangrove_bark",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/takiniteasy/items/mangrove_bark.json",
+          "src/main/resources/assets/takiniteasy/models/item/mangrove_bark.json",
+          "src/main/java/net/mcreator/takiniteasy/item/MangroveBarkItem.java"
+        ]
+      }
+    },
+    {
+      "name": "JungleBark",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungle_bark",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/takiniteasy/models/item/jungle_bark.json",
+          "src/main/resources/assets/takiniteasy/items/jungle_bark.json",
+          "src/main/java/net/mcreator/takiniteasy/item/JungleBarkItem.java"
+        ]
+      }
+    },
+    {
+      "name": "DarkOakBark",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_oak_bark",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/takiniteasy/models/item/dark_oak_bark.json",
+          "src/main/resources/assets/takiniteasy/items/dark_oak_bark.json",
+          "src/main/java/net/mcreator/takiniteasy/item/DarkOakBarkItem.java"
+        ]
+      }
+    },
+    {
+      "name": "SpruceBark",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruce_bark",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/takiniteasy/models/item/spruce_bark.json",
+          "src/main/java/net/mcreator/takiniteasy/item/SpruceBarkItem.java",
+          "src/main/resources/assets/takiniteasy/items/spruce_bark.json"
+        ]
+      }
+    },
+    {
+      "name": "AcaciaBark",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acacia_bark",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/takiniteasy/items/acacia_bark.json",
+          "src/main/java/net/mcreator/takiniteasy/item/AcaciaBarkItem.java",
+          "src/main/resources/assets/takiniteasy/models/item/acacia_bark.json"
+        ]
+      }
+    },
+    {
+      "name": "TreeSap",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tree_sap",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/takiniteasy/item/TreeSapItem.java",
+          "src/main/resources/assets/takiniteasy/models/item/tree_sap.json",
+          "src/main/resources/assets/takiniteasy/items/tree_sap.json"
+        ]
+      }
+    },
+    {
+      "name": "TreeSapSyrup",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tree_sap_syrup",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/takiniteasy/item/TreeSapSyrupItem.java",
+          "src/main/resources/assets/takiniteasy/items/tree_sap_syrup.json",
+          "src/main/resources/assets/takiniteasy/models/item/tree_sap_syrup.json"
+        ]
+      }
+    },
+    {
+      "name": "SapToSyrup",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sap_to_syrup",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/takiniteasy/advancement/recipes/sap_to_syrup.json",
+          "src/main/resources/data/takiniteasy/recipe/sap_to_syrup.json"
+        ]
+      }
+    },
+    {
+      "name": "WoodClub",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wood_club",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/takiniteasy/models/item/wood_club.json",
+          "src/main/java/net/mcreator/takiniteasy/item/WoodClubItem.java",
+          "src/main/resources/assets/takiniteasy/items/wood_club.json"
+        ]
+      }
+    },
+    {
+      "name": "WoodClubFromSticks",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wood_club_from_sticks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/takiniteasy/recipe/wood_club_from_sticks.json",
+          "src/main/resources/data/takiniteasy/advancement/recipes/wood_club_from_sticks.json"
+        ]
+      }
+    },
+    {
+      "name": "Rock",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rock",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/takiniteasy/models/item/rock.json",
+          "src/main/java/net/mcreator/takiniteasy/item/RockItem.java",
+          "src/main/resources/assets/takiniteasy/items/rock.json"
+        ]
+      }
+    },
+    {
+      "name": "BeatStoneForRocks",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beat_stone_for_rocks",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/takiniteasy/procedures/BeatStoneForRocksProcedure.java"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -389,6 +821,59 @@
       "~CUSTOM:StrippedOakLogBreakingStage3",
       "~CUSTOM:StrippedOakLogBreakingStage2",
       "~CUSTOM:StrippedOakLogBreakingStage1"
+    ],
+    "BLOCKS:mod:logs_unbroken": [
+      "Blocks.LOG#0",
+      "Blocks.LOG#1",
+      "Blocks.LOG#2",
+      "Blocks.LOG#3",
+      "Blocks.LOG2#0",
+      "Blocks.LOG2#1",
+      "Blocks.MANGROVE_LOG",
+      "Blocks.CHERRY_LOG"
+    ],
+    "BLOCKS:mod:logs_stripped": [
+      "Blocks.STRIPPED_OAK_LOG",
+      "Blocks.STRIPPED_SPRUCE_LOG",
+      "Blocks.STRIPPED_BIRCH_LOG",
+      "Blocks.STRIPPED_JUNGLE_LOG",
+      "Blocks.STRIPPED_ACACIA_LOG",
+      "Blocks.STRIPPED_DARK_OAK_LOG",
+      "Blocks.STRIPPED_MANGROVE_LOG",
+      "Blocks.STRIPPED_CHERRY_LOG"
+    ],
+    "BLOCKS:mod:logs_breaking_1": [
+      "CUSTOM:StrippedOakLogBreakingStage1",
+      "CUSTOM:StrippedSpruceLogBreakingStage1",
+      "CUSTOM:StrippedCherryLogBreakingStage1",
+      "CUSTOM:StrippedJungleLogBreakingStage1",
+      "CUSTOM:StrippedDarkOakLogBreakingStage1",
+      "CUSTOM:StrippedBirchLogBreakingStage1",
+      "CUSTOM:StrippedAcaciaLogBreakingStage1",
+      "CUSTOM:StrippedMangroveLogBreakingStage1"
+    ],
+    "BLOCKS:mod:logs_breaking_2": [
+      "CUSTOM:StrippedOakLogBreakingStage2",
+      "CUSTOM:StrippedSpruceLogBreakingStage2",
+      "CUSTOM:StrippedCherryLogBreakingStage2",
+      "CUSTOM:StrippedJungleLogBreakingStage2",
+      "CUSTOM:StrippedDarkOakLogBreakingStage2",
+      "CUSTOM:StrippedBirchLogBreakingStage2",
+      "CUSTOM:StrippedAcaciaLogBreakingStage2",
+      "CUSTOM:StrippedMangroveLogBreakingStage2"
+    ],
+    "BLOCKS:mod:logs_breaking_3": [
+      "CUSTOM:StrippedOakLogBreakingStage3",
+      "CUSTOM:StrippedSpruceLogBreakingStage3",
+      "CUSTOM:StrippedCherryLogBreakingStage3",
+      "CUSTOM:StrippedJungleLogBreakingStage3",
+      "CUSTOM:StrippedDarkOakLogBreakingStage3",
+      "CUSTOM:StrippedBirchLogBreakingStage3",
+      "CUSTOM:StrippedAcaciaLogBreakingStage3",
+      "CUSTOM:StrippedMangroveLogBreakingStage3"
+    ],
+    "ITEMS:minecraft:swords": [
+      "~CUSTOM:WoodClub"
     ]
   },
   "tab_element_order": {},
@@ -417,13 +902,27 @@
       "item.takiniteasy.stripped_acacia_log_breaking_stage_3": "Stripped Oak Log Breaking Stage 1",
       "item.takiniteasy.stripped_mangrove_log_breaking_stage_1": "Stripped Oak Log Breaking Stage 1",
       "item.takiniteasy.stripped_mangrove_log_breaking_stage_2": "Stripped Oak Log Breaking Stage 1",
-      "item.takiniteasy.stripped_mangrove_log_breaking_stage_3": "Stripped Oak Log Breaking Stage 1"
+      "item.takiniteasy.stripped_mangrove_log_breaking_stage_3": "Stripped Oak Log Breaking Stage 1",
+      "item.takiniteasy.oak_bark": "Oak Bark",
+      "item.takiniteasy.birch_bark": "Brich Bark",
+      "item.takiniteasy.cherry_bark": "Cherry Bark",
+      "item.takiniteasy.mangrove_bark": "Mangrove Bark",
+      "item.takiniteasy.jungle_bark": "Jungle Bark",
+      "item.takiniteasy.dark_oak_bark": "Dark Oak Bark",
+      "item.takiniteasy.spruce_bark": "Spruce Bark",
+      "item.takiniteasy.acacia_bark": "Acacia Bark",
+      "item.takiniteasy.tree_sap": "Tree Sap",
+      "item.takiniteasy.tree_sap_syrup": "Tree Sap Syrup",
+      "item.takiniteasy.wood_club": "Wood Club",
+      "item.takiniteasy.rock": "Rock"
     }
   },
   "metadata": {
     "files": [
       "src/main/java/net/mcreator/takiniteasy/init/TakiniteasyModBlocks.java",
+      "src/main/java/net/mcreator/takiniteasy/init/TakiniteasyModItems.java",
       "src/main/resources/pack.mcmeta",
+      "src/main/java/net/mcreator/takiniteasy/init/TakiniteasyModTabs.java",
       "src/main/java/net/mcreator/takiniteasy/TakiniteasyMod.java",
       "src/main/resources/META-INF/neoforge.mods.toml"
     ]

@@ -22,5 +22,17 @@
   "item.takiniteasy.stripped_acacia_log_breaking_stage_3": "Stripped Oak Log Breaking Stage 1",
   "item.takiniteasy.stripped_mangrove_log_breaking_stage_1": "Stripped Oak Log Breaking Stage 1",
   "item.takiniteasy.stripped_mangrove_log_breaking_stage_2": "Stripped Oak Log Breaking Stage 1",
-  "item.takiniteasy.stripped_mangrove_log_breaking_stage_3": "Stripped Oak Log Breaking Stage 1"
+  "item.takiniteasy.stripped_mangrove_log_breaking_stage_3": "Stripped Oak Log Breaking Stage 1",
+  "item.takiniteasy.oak_bark": "Oak Bark",
+  "item.takiniteasy.birch_bark": "Brich Bark",
+  "item.takiniteasy.cherry_bark": "Cherry Bark",
+  "item.takiniteasy.mangrove_bark": "Mangrove Bark",
+  "item.takiniteasy.jungle_bark": "Jungle Bark",
+  "item.takiniteasy.dark_oak_bark": "Dark Oak Bark",
+  "item.takiniteasy.spruce_bark": "Spruce Bark",
+  "item.takiniteasy.acacia_bark": "Acacia Bark",
+  "item.takiniteasy.tree_sap": "Tree Sap",
+  "item.takiniteasy.tree_sap_syrup": "Tree Sap Syrup",
+  "item.takiniteasy.wood_club": "Wood Club",
+  "item.takiniteasy.rock": "Rock"
 }
