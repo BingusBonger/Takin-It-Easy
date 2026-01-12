@@ -35,6 +35,8 @@ public class TakiniteasyModTabs {
 			tabData.accept(TakiniteasyModItems.TREE_SAP_SYRUP.get());
 		} else if (tabData.getTabKey() == CreativeModeTabs.COMBAT) {
 			tabData.accept(TakiniteasyModItems.WOOD_CLUB.get());
+		} else if (tabData.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES) {
+			tabData.accept(TakiniteasyModItems.HARDEND_SAP_PICK.get());
 		}
 	}
 }

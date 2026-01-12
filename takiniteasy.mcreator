@@ -791,6 +791,20 @@
           "src/main/java/net/mcreator/takiniteasy/procedures/BeatStoneForRocksProcedure.java"
         ]
       }
+    },
+    {
+      "name": "HardendSapPick",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hardend_sap_pick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/takiniteasy/item/HardendSapPickItem.java",
+          "src/main/resources/assets/takiniteasy/items/hardend_sap_pick.json",
+          "src/main/resources/assets/takiniteasy/models/item/hardend_sap_pick.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -874,6 +888,9 @@
     ],
     "ITEMS:minecraft:swords": [
       "~CUSTOM:WoodClub"
+    ],
+    "ITEMS:minecraft:pickaxes": [
+      "~CUSTOM:HardendSapPick"
     ]
   },
   "tab_element_order": {},
@@ -914,7 +931,8 @@
       "item.takiniteasy.tree_sap": "Tree Sap",
       "item.takiniteasy.tree_sap_syrup": "Tree Sap Syrup",
       "item.takiniteasy.wood_club": "Wood Club",
-      "item.takiniteasy.rock": "Rock"
+      "item.takiniteasy.rock": "Rock",
+      "item.takiniteasy.hardend_sap_pick": "Sapick"
     }
   },
   "metadata": {

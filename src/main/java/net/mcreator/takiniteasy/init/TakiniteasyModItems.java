@@ -27,6 +27,7 @@ public class TakiniteasyModItems {
 	public static final DeferredItem<Item> TREE_SAP_SYRUP;
 	public static final DeferredItem<Item> WOOD_CLUB;
 	public static final DeferredItem<Item> ROCK;
+	public static final DeferredItem<Item> HARDEND_SAP_PICK;
 	static {
 		OAK_BARK = register("oak_bark", OakBarkItem::new);
 		BIRCH_BARK = register("birch_bark", BirchBarkItem::new);
@@ -40,6 +41,7 @@ public class TakiniteasyModItems {
 		TREE_SAP_SYRUP = register("tree_sap_syrup", TreeSapSyrupItem::new);
 		WOOD_CLUB = register("wood_club", WoodClubItem::new);
 		ROCK = register("rock", RockItem::new);
+		HARDEND_SAP_PICK = register("hardend_sap_pick", HardendSapPickItem::new);
 	}
 
 	// Start of user code block custom items
